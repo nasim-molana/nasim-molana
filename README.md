@@ -6,7 +6,10 @@ I'm Nasim Molana, a Frontend Developer focused on building clean, responsive, an
 💻 I am currently working on frontend projects, focusing on scalable architecture, reusable components, and clean code.
 
 ## 🔧 Tech & Tools
-**Frontend:** JavaScript (ES6+), TypeScript (basic), Vue.js, Nuxt, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap  
+**Frontend:** JavaScript (ES6+), TypeScript (basic), Vue.js, Nuxt, React.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+
+**UI/UX & Design:** Figma, Responsive Design, UI Implementation
+
 **Tools:** Git, GitHub, GitLab, VS Code  
 
 ## 📫 Contact
